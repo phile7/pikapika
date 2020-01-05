@@ -16,11 +16,18 @@
     cursor:pointer;
     overflow: hidden;
     outline:none;
-}S
+}
 
-#form{
+#sec { 	position: relative; 
+		margin: 0 auto;
+		width: 500px;
+		height: 600px;
+
+}
+#sec #form{
+	position: absolute;
 	width: 400px;
-	margin: 0 auto;
+	left: 50px;
 }
 
 .input{
