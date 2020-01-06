@@ -30,7 +30,6 @@ try{
       
       // 트랜잭션 실행
       pstmt = conn.prepareStatement(sql_select);
-      
       rs = pstmt.executeQuery();
       
       while(rs.next()){
