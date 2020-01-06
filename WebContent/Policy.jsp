@@ -17,7 +17,7 @@ body{
 #container {
 	height: 1300px;
 	width: 720px;
-	margin: 15px auto;
+	margin: 0 auto;
 }
 
 .exit{
